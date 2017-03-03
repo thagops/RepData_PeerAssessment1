@@ -2,7 +2,7 @@
 title: "Reproducible Research - Assignment 1"
 author: "Gopi Shanmugam"
 date: "February 21, 2017"
-output: html_document
+output: md_document
 ---
 
 # Reproducible Research - Assignment 1
